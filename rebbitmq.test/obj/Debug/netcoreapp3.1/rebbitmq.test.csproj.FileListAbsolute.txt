@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\bin\Debug\netcoreapp3.1\rebbitmq.test.exe
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\obj\Debug\netcoreapp3.1\rebbitmq.test.csprojAssemblyReference.cache
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\obj\Debug\netcoreapp3.1\rebbitmq.test.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\obj\Debug\netcoreapp3.1\rebbitmq.test.AssemblyInfo.cs
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\bin\Debug\netcoreapp3.1\rebbitmq.test.deps.json
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\bin\Debug\netcoreapp3.1\rebbitmq.test.runtimeconfig.json
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\bin\Debug\netcoreapp3.1\rebbitmq.test.runtimeconfig.dev.json
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\bin\Debug\netcoreapp3.1\rebbitmq.test.dll
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\bin\Debug\netcoreapp3.1\rebbitmq.test.pdb
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\obj\Debug\netcoreapp3.1\rebbitmq.test.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\obj\Debug\netcoreapp3.1\rebbitmq.test.csproj.CopyComplete
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\obj\Debug\netcoreapp3.1\rebbitmq.test.dll
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\obj\Debug\netcoreapp3.1\rebbitmq.test.pdb
+C:\Users\ander\Desktop\rebbitmq.test\rebbitmq.test\obj\Debug\netcoreapp3.1\rebbitmq.test.genruntimeconfig.cache
